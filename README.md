@@ -1,5 +1,5 @@
-# sockless
-ES PHP Chat System
+# sockless &#129510;
+ES PHP Chat System 
 Socketless Asynchronous Bidirectional Packet Exchange Client... wooo thats a mouthful
 
 Anyways I'll post more stuff on this as it becomes relevant
